@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A module to add/generate OpenLR encoded data to/from a RouterDb.</Description>
+    <Authors>Ben Abelshausen</Authors>
+    <Company>SharpSoftware</Company>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/itinero/io.openlr/master/LICENSE.md</PackageLicenseUrl>
+    <RepositoryType></RepositoryType>
+    <RepositoryUrl>https://github.com/itinero/io.openlr</RepositoryUrl>
+    <PackageProjectUrl>http://www.itinero.tech/</PackageProjectUrl>
+    <PackageIconUrl>http://www.itinero.tech/logos/itinero_logo_notext.svg.128.png</PackageIconUrl>
+    <PackageTags>openlr, routing</PackageTags>
+    <Version>0.0.1-alpha</Version>
   </PropertyGroup>
 
   <ItemGroup>
