@@ -1,1 +1,1 @@
-dotnet build ./src/Itinero.IO.OpenLR -f netstandard1.6
+dotnet build ./src/Itinero.IO.OpenLR -f netstandard2.0
